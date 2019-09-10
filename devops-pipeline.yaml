@@ -1,0 +1,6 @@
+#devopsdemo - pipeline
+
+name:
+
+stage: 'build'
+  jobs:
